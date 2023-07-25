@@ -1,0 +1,121 @@
+*{
+    margin: 15px;
+    margin-top: 30px;
+    margin-left: 25px;
+    padding-top: -0px;
+    background-color: grey;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.London{
+        border: 1px solid;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        background-image: url("/Pictures/big-ben-houses-parliament-london-uk.jpg");
+        /* background-position: center center; */
+        background-size:400px 200px;
+        background-repeat: no-repeat;
+        max-width: 400px;
+        width: 100%;
+        height: 700px;
+        border-radius: 25px;
+               
+        
+
+}
+
+
+.New{
+    border: 1px solid;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        background-image: url("/Pictures/town-modern-cityscape-europe-2016.jpg");
+        background-size:400px 200px;
+        background-repeat: no-repeat;
+        max-width: 400px;
+        width: 100%;
+        height: 700px;
+        border-radius: 25px;
+}
+.Marrakech{
+    border: 1px solid;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        background-image: url("/Pictures/abdelhamid-azoui-KfPbqki_4yw-unsplash\ \(1\).jpg");
+        background-size:400px 200px;
+        background-repeat: no-repeat;
+        max-width: 400px;
+        width: 100%;
+        height: 700px;
+        border-radius: 25px;
+
+}
+.Days{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.pink{
+    text-align: center;
+    color: palevioletred;
+    font-size: large;
+    font-weight: bolder;
+}
+.orange{
+    text-align: center;
+    color: orangered;
+    font-size: large;
+    font-weight: bolder;
+}
+.green{
+    text-align: center;
+    color:greenyellow;
+    font-size: large;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+}
+.views{
+    background-color: greenyellow;
+    color: white;
+    margin-top: px;
+    background-size: cover;
+    font-weight: 400;
+    font-size: 20px;
+}
+.Comments{
+    background-color:orangered;
+       color: white;
+    margin-top: px;
+    background-size: cover;
+    font-weight: 400;
+    font-size: 20px;
+}
+.Ratings{
+    background-color:palevioletred;
+    color: white;
+    margin-top: px;
+    background-size: cover;
+    font-weight: 400;
+    font-size: 20px;
+}
+.london-child{
+    position: relative;
+    top: 10%;
+}
+.new-child{
+    position: relative;
+    top: 10%;
+}
+.marrakech-child{
+    position: relative;
+    top: 10%;
+}

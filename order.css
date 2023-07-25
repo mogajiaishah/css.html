@@ -1,0 +1,14 @@
+table, th, td{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 1000px;
+    font-size: 20px;
+    padding: 10px 15px;
+    margin: 90px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.Subheading{
+    color: lightskyblue;
+}

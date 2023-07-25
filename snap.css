@@ -1,0 +1,123 @@
+*{
+    background-color: lavender;
+    margin: 20px;
+    box-sizing: content-box;
+    
+}
+.flex{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    
+}
+.joey{
+    border: 1px solid;
+    flex-direction: column;
+        display: flex;
+        /* background-image: url("/Pictures/young-smiling-blonde-girl.zip"); */
+        background-size:400px 200px;
+        background-repeat: no-repeat;
+        justify-content: center;
+        max-width: 500px;
+        width: 100%;
+        height: 600px;
+        border-radius: 25px;
+        background-color: darkslateblue;
+        align-items: center;
+        align-content: center;
+
+}
+img{
+   border-radius: 500px;
+   height: 200px;
+   width: 200px;
+   background-color: whitesmoke;
+   
+}
+h1{
+    text-align: center;
+    background-color: darkslateblue;
+    color: white;
+    line-height: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+    background-color: darkslateblue;
+}
+.rivera{
+    border: 1px solid;
+    flex-direction: column;
+        display: flex;
+        /* background-image: url("/Pictures/young-smiling-blonde-girl.zip"); */
+        background-size:400px 200px;
+        background-repeat: no-repeat;
+        justify-content: center;
+        max-width: 500px;
+        width: 100%;
+        height: 600px;
+        border-radius: 25px;
+        background-color: whitesmoke;
+        align-items: center;
+        align-content: center;
+}
+.lene{
+    border: 1px solid;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-right: 200px;
+    padding: 15px 15px;
+    /* padding-bottom: -200px; */
+    font-weight: 500;
+    font-size: larger;
+    background-color: rgb(208, 149, 251);
+}
+h2{
+    text-align: center;
+    background-color: whitesmoke;
+    line-height: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.rivera-child{
+    background-color: whitesmoke;
+}
+.web{
+    background-color: whitesmoke;
+}
+.joey-child{
+    border: 1px solid;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding: 15px 15px;
+    font-weight: 500;
+    font-size: larger;
+    background-color: rgb(208, 149, 251);
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 30px;
+    background-color:whitesmoke;
+    
+}
+.icons-child{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 35px;
+   background-color: darkslateblue;
+   color:rgb(208, 149, 251) ;
+    
+}
+.developer{
+    color: blueviolet;
+    line-height: -200px;
+}

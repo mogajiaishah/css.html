@@ -1,0 +1,45 @@
+*{
+    background-color: midnightblue;
+   
+   
+}
+
+h1{
+    color: rgb(172, 69, 31);
+    margin-top: 80px;
+}
+
+.Unordered{
+    color: dodgerblue;
+    font-size: 20px;
+}
+.ordered{
+    color: dodgerblue;
+    font-size: 20px;
+}
+li{
+    color: dodgerblue;/bullet color/
+}
+li span{
+    color:white;/text color/
+    
+}
+ol{
+    color: black;
+    font-size: 18px;
+    line-height: 25px;
+   margin-left: -20px;
+   font-weight: 00;
+}
+p{
+    line-height: 15px;
+    font-size: 18px;
+    color: white;
+}
+ul{
+    line-height: 25px;
+    margin-left: -20px;
+    font-weight: 400;
+    font-size: 18px;
+    
+}

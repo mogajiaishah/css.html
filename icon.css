@@ -1,0 +1,24 @@
+body{
+    width: 500px;
+}
+.fa-twitter{
+    
+        color:black;
+    font-size: 40px;
+    display: inline-block;
+    width: 100%;
+
+   }
+   i{
+    text-align: center;
+   }
+   li{
+    color:lightskyblue ;
+    font-size: 25px;
+         }
+         p{
+            font-size: 25px;
+            line-height: 7px;
+         }
+
+  

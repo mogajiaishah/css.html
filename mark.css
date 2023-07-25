@@ -1,0 +1,53 @@
+*{
+margin: 20px;
+background-color: lightslategray;
+}
+.flex{
+    display: flex;
+    /* justify-content: space-between; */
+    background: none;
+}
+.zuck{
+    display: flex;
+    border: 2px solid;
+    flex-direction: column;
+    background-color: grey;
+    
+}
+img{
+    color: grey;
+}
+.mark{
+    display:flex ;
+    border: 2px solid;
+    flex-direction: column;
+    opacity: o.5;
+
+}
+img{
+    /* opacity: 0.5; */
+}
+p{
+    /* text-decoration: none; */
+    text-align: center;
+    color: white;
+}
+.berg{
+    background-color: gray;
+    color: green;
+    font-weight: bolder;
+    font-size: larger;
+}
+.berg-child{
+    background-color: grey;
+}
+.face{
+    background-color: grey;
+}
+table{
+    color: white;
+    background-color: grey;
+}
+td{
+    background-color: gray;
+}

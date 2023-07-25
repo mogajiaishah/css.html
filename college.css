@@ -1,0 +1,55 @@
+*{
+    border: 1px solid;
+    border-color:slategray ;
+    padding: 10px;
+}
+th{
+    width: 700px;
+    border: 1px solid black;
+    border-color: slategray;
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    border-color: white;
+    line-height: 0;
+}
+
+td{
+    text-align: center;
+    margin: 0;
+    padding: 0px;
+    font-weight: 550;
+    border-color: slategray;
+    font-size: 20px;
+    
+}
+.head{
+    background-color: rgba(25, 25, 112, 0.968);
+    color: white;
+}
+.white{
+    background-color: lavender;
+}
+.Thompson{
+    background-color:lavender ;
+}
+.Armstrong{
+   background-color: lavender;
+}
+.McFadden{
+    background-color: lavender;
+}
+.Russell{
+    background-color: lavender;
+}
+table{
+    border-collapse: collapse;
+    padding: 100px;
+   
+   }
+   tr:nth-child(even) {
+    padding:none ;
+   }
+   

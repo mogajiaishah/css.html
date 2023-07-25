@@ -1,0 +1,47 @@
+.btn{
+    border: 1px solid blueviolet;
+    border-radius: 30px; 
+    background-color: brown;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 30px;
+    height: 90px;
+    } 
+  
+    .btn:hover{
+        background-color: blue;
+    }
+      
+    .container{
+        background-color: aqua;
+        max-width: 100%;
+        width: 100%;
+        height: ;
+    }
+
+    .outline{
+        outline: 1px solid rgb(255, 47, 210);
+        border-radius: 15px;
+        width: 200px;
+    }
+
+    .font-family{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 900;
+        font-size: 70px;
+    }
+
+    .link{
+        text-decoration: none;
+        color: blueviolet;
+    }
+
+    .link:visited{
+        color: greenyellow;
+    }
+    .link:hover{
+        background-color: blue;
+        color: brown;
+        padding: 5px 5px;
+        border-radius: 17px;
+    }
